@@ -1,0 +1,4 @@
+<Categories>
+  <counter name="Processor">"% User Time, % Privileged Time,% Interrupt Time,% DCP Time,% Processor Time"</counter>
+  <counter name="Process">"% User Time,% Privileged Time, % Processor Time, Thread Count, Virtual Bytes, Working Set, Private Bytes"</counter>
+</Categories>
